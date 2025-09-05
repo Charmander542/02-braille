@@ -1,5 +1,5 @@
-# 02-Team Repo
-Template for team repo
+# 06-Refreshable Braille Reader
+
 
 <p align="center">
 <img src="./images/thisismyteam.png" width="50%">

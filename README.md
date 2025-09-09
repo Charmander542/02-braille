@@ -2,7 +2,7 @@
 
 
 <p align="center">
-<img src="./images/thisismyteam.png" width="50%">
+<img src="./images/Team 6.jpg" width="50%">
 </p>
 <p align="center">
 This is my team
